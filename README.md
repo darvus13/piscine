@@ -20,7 +20,7 @@
 
   <h1>Finally</h1>
   <p>Yes when it comes to the end you will be exhausted, with a lot of mixed feelings and of course with the feeling of knowing that you did everything you could and more. You only have to wait, don't desperate about not knowing instantly if you're in or not. If you don't get into 42, don't lose your hope, you can try one more time!
-   Hope this is useful to someone out struggling with the piscine and slightly help to keep going on. Good luck!</p>
+   Hope this is useful to someone out struggling with the piscine and slightly helpful to keep going on. Good luck!</p>
 
    <h1>My scores</h1>
    <a href="https://ibb.co/PGBDXHp"><img src="https://i.ibb.co/MkqBw0T/notas1.png" alt="notas1" border="0"></a>
